@@ -1,13 +1,12 @@
-```markdown
 ![Project Logo](https://codehelp-apis.vercel.app/get-top-courses/Development/Web%20Development%20Fundamentals.png)
 
 # 🚀 Top Courses React App
 
-Welcome to the Top Courses React App! This project is a simple React web application that allows you to discover different courses based on their categories. You can change the category filter and like or unlike courses with the click of a button. When you like or unlike a course, a toast notification will provide feedback. 📚👩‍🎓
+Welcome to the Top Courses React App! This project is a simple React web application that displays a list of top courses. Users can filter courses by category and like their favorite courses. 📚👩‍🎓
 
 ## 🌐 Demo
 
-You can explore a live demo of this project [here](https://aasn0119.github.io/topcourses_react/). 🌍👀
+You can check out a live demo of this project [here](aasn0119.github.io/topcourses_react/). 🌍👀
 
 ## 🚀 Getting Started
 
@@ -15,7 +14,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### ⚙️ Prerequisites
 
-Before running the project, ensure that you have the following software installed:
+To run this project, you need to have the following software installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14.0 or higher)
 - [npm](https://www.npmjs.com/) (usually included with Node.js installation) 📦🚚
@@ -26,7 +25,7 @@ Before running the project, ensure that you have the following software installe
 
    ```bash
    git clone https://github.com/your-username/topcourses-react.git
-   ```
+
 
 2. **Navigate to the project directory**:
 
